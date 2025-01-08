@@ -1,0 +1,9 @@
+{
+    "name": "Hello World docker",
+    "dpckerFile": "Dockerfile",
+    "customizations": {
+        "vscode": {
+            "extension": "Oracle.oracle-java"
+        }
+    }
+}
